@@ -37,4 +37,4 @@ python main.py
 
 MIT License
 
-![image alt].(https://github.com/Swadeeppatil/translate/blob/main/Screenshot%20(151).png?raw=true)
+![image alt](https://github.com/Swadeeppatil/translate/blob/main/Screenshot%20(151).png?raw=true)
