@@ -1,0 +1,4 @@
+googletrans==4.0.0-rc1
+gtts==2.3.2
+SpeechRecognition==3.10.0
+pillow==10.0.0
