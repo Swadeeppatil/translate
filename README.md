@@ -28,6 +28,7 @@ python main.py
 
 ## Requirements
 
+
 - Python 3.8+
 - Internet connection for translation services
 - Audio input device for speech recognition (optional)
@@ -35,3 +36,5 @@ python main.py
 ## License
 
 MIT License
+
+![image alt].(https://github.com/Swadeeppatil/translate/blob/main/Screenshot%20(151).png?raw=true)
